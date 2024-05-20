@@ -15,16 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="PemdasRelasi.cpp">
+    <ClCompile Include="MainM.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Jantung.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Manusia.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
